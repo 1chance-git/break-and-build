@@ -1,0 +1,35 @@
+Document Prompt (for README.md and Break Logs)
+----------------------------------------------
+
+# [Project Name]
+
+Building a legacy — one broken app at a time.
+
+## Description
+[Short 1–2 sentence description of what this project is.]
+
+## Why
+This project was created to intentionally break and rebuild, accelerating mastery through experimentation.
+
+## How
+- Built with: [Language, Tools, AI assistants used]
+- Structure: Modular, well-commented, intentionally fragile.
+
+## Instructions
+- Clone the repo or copy the code into your environment.
+- Run the application.
+- Break it intentionally by [short instruction on how to break].
+- Document what broke.
+- Rebuild stronger.
+
+## Break Log
+[Leave empty — to be filled after first break.]
+
+## Fix Log
+[Leave empty — to be filled after first rebuild.]
+
+## Lessons Learned
+[Leave empty — fill with discoveries after rebuilds.]
+
+## Philosophy
+> "If it doesn’t break, you don’t really understand it." — Break & Build
