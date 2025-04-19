@@ -1,0 +1,30 @@
+Manuscript Prompt (for Substack Blog Posts)
+-------------------------------------------
+
+Title: Breaking [Project Name]: Lessons from Failure
+
+Opening Hook:
+Today, I broke [Project Name] — on purpose. Here's why that was the best thing that could've happened.
+
+Introduction:
+Explain what the app/project was supposed to do. Explain briefly that you use "Break & Build" philosophy to accelerate mastery.
+
+What I Built:
+Describe the basic idea and why you chose this project. Mention the AI tools used (Copilot, Replit AI, Cursor, Devin, etc.).
+
+How It Broke:
+Tell the story of where and how it broke. Make it relatable — like "I thought it was working...until it wasn’t."
+
+What I Learned:
+Talk about the biggest takeaways: technical lessons, mindset lessons, anything surprising.
+
+The Rebuild:
+Briefly describe how you rebuilt it, and what changed in your understanding.
+
+Closing:
+Inspire the reader — "Breaking things isn't failure. It's forging understanding." Invite them to follow the journey on GitHub + Substack.
+
+CTA (Call to Action):
+- Follow the GitHub repo
+- Subscribe to the Substack
+- Stay tuned for the next break and rebuild
