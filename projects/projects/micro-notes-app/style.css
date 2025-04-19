@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 300px;
+}
+
+#noteInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#addNoteBtn {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#notesList {
+    list-style-type: none;
+    padding: 0;
+}
