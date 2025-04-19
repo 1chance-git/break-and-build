@@ -1,0 +1,29 @@
+# Break & Build - Break Report
+
+## Project
+- Name:
+- Date:
+
+## What Was Built
+- Brief summary of what the app or feature was supposed to do:
+
+## What Broke
+- What part failed?
+- How did it fail? (error message, behavior, crash)
+
+## Why It Broke
+- Root cause analysis (best guess + evidence):
+
+## How I Fixed It
+- Exact steps taken to fix the break:
+
+## Lessons Learned
+- Key technical concepts discovered:
+- Key strategic concepts discovered:
+
+## New Tools or Skills
+- Any new tools, techniques, or libraries learned through the fix:
+
+---
+
+> "Breaking is not failure. Breaking is the blueprint whispering secrets."
