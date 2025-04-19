@@ -1,0 +1,22 @@
+# Break & Build - Recursion Reflection
+
+## Aftermath
+- How stable is the rebuild?
+- Are there hidden weaknesses still?
+
+## Recursive Questioning
+- How could I have broken it even worse?
+- How would a beginner break it?
+- How would a hacker break it?
+- How would a future smarter version of me break it?
+
+## New Ideas
+- Features or improvements I thought of while breaking/rebuilding:
+
+## Meta Reflection
+- What mindset or habit slowed me down?
+- What mindset or habit helped me most?
+
+---
+
+> "To build stronger, ask how it can collapse deeper."
