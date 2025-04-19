@@ -1,0 +1,20 @@
+# Break & Build - Inversion Attack
+
+## Sabotage Design
+- If I wanted this app to FAIL as badly as possible, what would I:
+  - Leave unsecured?
+  - Overcomplicate?
+  - Under-test?
+  - Assume without verifying?
+
+## Weak Point Hunting
+- What is the riskiest part of the code right now?
+- What parts are brittle or confusing?
+
+## Strategic Inversion
+- What "good practices" might actually be hurting me?
+- Where am I being too clever instead of being clear?
+
+---
+
+> "Every weakness, when inverted, reveals a master design pattern."
