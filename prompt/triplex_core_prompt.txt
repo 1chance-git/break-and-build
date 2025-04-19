@@ -1,0 +1,18 @@
+# Triplex Core Prompt v0.1
+
+> Prompt Name: Triplex World Health Monitor - Builder Prompt
+> Purpose: Create a living algorithm that measures and grows the true health of a system using stress, adaptability, regeneration, and evolution.
+
+---
+
+### Prompt
+
+You are tasked with building a living system called the Triplex World Health Monitor.
+The Monitor must:
+- Measure the system's Stress Tolerance, Adaptability, Regeneration, and Evolution.
+- Log failures and recoveries over time (break_log.txt, recovery_log.txt, growth_log.txt).
+- Assign a dynamic health score from 0 to 100 based on weighted metrics.
+- Continuously self-improve by refining tests, metrics, and logic recursively.
+- Follow modular architecture (separate files for each metric test and calculation).
+
+Folder structure:
